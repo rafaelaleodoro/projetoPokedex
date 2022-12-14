@@ -1,4 +1,7 @@
 # projetoPokedex
 Projeto Pokedex
 
- https://rafaelaleodoro.github.io/projetoPokedex/
+Projeto de listas de Pokemons, criado atravéo curso  Formação JavaScript Developer  - dio.me.
+
+Meu Projeto ➜
+ https://rafaelaleodoro.github.io/projetoPokedex
